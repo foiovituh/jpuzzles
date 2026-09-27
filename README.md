@@ -25,7 +25,7 @@ Or, if Maven is installed globally:
 mvn test
 ```
 
-### 🛠️ Requirements
+## 🛠️ Requirements
 
 - Java 25
 
