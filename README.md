@@ -1,6 +1,6 @@
 # 🧩 JPuzzles
 
-> A collection of small algorithmic puzzles implemented in Java for practicing algorithms.
+> My Java algorithmic puzzles to practice and track progress.
 
 ## 📚 Puzzles
 
@@ -10,6 +10,13 @@
 |---|---|
 | [SumOfDigits](src/main/java/io/github/foiovituh/jpuzzles/math/SumOfDigits.java) | Returns the sum of all digits in a positive integer. |
 | [CountDigits](src/main/java/io/github/foiovituh/jpuzzles/math/CountDigits.java) | Returns the number of digits in a positive integer. |
+
+### String
+
+| Puzzle | Description |
+|---|---|
+| [ValidParentheses](src/main/java/io/github/foiovituh/jpuzzles/string/ValidParentheses.java) | Checks whether parentheses are correctly opened and closed. |
+
 
 Each puzzle has its own test class containing the problem cases and expected results.
 
