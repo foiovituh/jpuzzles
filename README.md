@@ -16,6 +16,7 @@
 | Puzzle | Description |
 |---|---|
 | [ValidParentheses](src/main/java/io/github/foiovituh/jpuzzles/string/ValidParentheses.java) | Checks whether parentheses are correctly opened and closed. |
+| [ReverseString](src/main/java/io/github/foiovituh/jpuzzles/string/ReverseString.java) | Returns the given string in reverse order. |
 
 
 Each puzzle has its own test class containing the problem cases and expected results.
